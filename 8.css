@@ -1,0 +1,94 @@
+.top {
+    background-color: rgb(58, 58, 136);
+    height: 60px;
+}
+i{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.l1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+.l2 {
+    color: white;
+}
+.l3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+.l5 {
+    color: white;
+}
+.l6 {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+.l4 {
+    padding-right: 20px;
+    color: white;
+}
+.b1 {
+    margin-left: 400px;
+    color: white;
+    border: none;
+    background-color: rgb(58, 58, 136);
+}
+.b2 {
+    margin-left: 20px;
+    margin-right: 10px;
+    background-color: orange;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    border: none;
+}
+select {
+    margin-left: 10px;
+    color: white;
+    border: none;
+    background-color: rgb(58, 58, 136);
+}
+.middle {
+    background: rgb(0,31,255);
+background: linear-gradient(124deg, rgba(0,31,255,1) 0%, rgba(0,155,255,1) 21%, rgba(0,245,255,1) 48%, rgba(0,251,160,1) 74%, rgba(0,255,106,1) 95%);
+height: 350px;
+padding-top: 40px;
+}
+.b3 {
+    background-color: rgba(0,245,255,1); 
+    color: white;
+    border: 2px solid white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.l7 {
+    margin-right: 350px;
+}
+iframe {
+    width: 400px;
+    height: 250px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.l9 {
+    margin-left: -70px;
+}
+.l10 {
+    margin-left: 270px;
+}
+b {
+    color: blue;
+}
+h3 {
+    color: blue;
+}
